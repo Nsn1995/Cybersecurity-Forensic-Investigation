@@ -1,4 +1,4 @@
-# Digital Forensic Investigation Report - Suspicious Network Activity
+# 🕵️‍♂️ Digital Forensic Investigation Report - Suspicious Network Activity
 
 This repository contains a **detailed forensic investigation report** analyzing suspicious network traffic captured in a packet capture (pcap) file. The investigation focuses on a potential data exfiltration incident within a corporate environment.
 
@@ -7,7 +7,7 @@ This repository contains a **detailed forensic investigation report** analyzing 
 ## Overview
 
 - **Case Title:** Suspicious Network Activity – Potential Data Exfiltration  
-- **Investigator:** Duhaim B. (Cybersecurity Analyst)  
+- **Investigator:** Nasser S. (Cybersecurity Analyst)  
 - **Date:** 2025-05-29  
 
 ---
@@ -55,12 +55,11 @@ You can review the full investigation report in the `Investigation_Report.md` fi
 ## Contact
 
 For questions or collaboration, feel free to contact:  
-**Duhaim B.**  
+**Nasser S. (nsn1995)**  
 Cybersecurity Analyst  
-Email: duhaim@example.com  
-LinkedIn: [linkedin.com/in/duhaim](https://linkedin.com/in/duhaim) *(replace with your actual links)*
+📧 Email: nsn.1995@icloud.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/nasser-sultan-05476b254](https://www.linkedin.com/in/nasser-sultan-05476b254)
 
 ---
 
 *This report is a simulated investigation for educational and portfolio purposes.*
-
