@@ -1,0 +1,15 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Python cache (if تستخدم بايثون لاحقاً)
+__pycache__/
+*.py[cod]
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
